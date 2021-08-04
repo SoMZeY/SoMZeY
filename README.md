@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoMZeY
+- 👋 Hi, I’m @SoMZeY 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me - vvbordiaw@gmail.com
